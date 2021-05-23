@@ -16,3 +16,7 @@
 .searchPage-3GKAdT .search-1iTphC .searchBox-3Y2Vi7 .searchBoxInput-uJtBcv {
   color: var(--text-normal);
 }
+
+:root {
+  --text-normal: rgb(220, 221, 222);--text-normal: rgb(220, 221, 222);
+}
