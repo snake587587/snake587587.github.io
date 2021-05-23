@@ -21,6 +21,12 @@
   --text-normal: rgb(50, 50, 50);
 }
 
+/* Video and Screen Background */ 
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
     background: rgba(8, 7, 7, 0.14);
+}
+
+/* Name */ 
+.title-eS5yk3 {
+    color: #878787;
 }
