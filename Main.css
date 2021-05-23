@@ -28,7 +28,8 @@
 --channel-hover-text-color: rgba(255, 255, 255, 0.75);
 --unread-text-color: #8a8a8a;
 --user-popup-background: rgba(0, 0, 0, 0.8);
-
+--text-normal: rgb(50, 50, 50);
+	
 --HSL-server-icon-size: 40px;
 --HSL-server-spacing: 10px;
 --rs-small-spacing: 2px;
