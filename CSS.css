@@ -19,10 +19,7 @@
 
 :root {
   --text-normal: rgb(50, 50, 50);
-  
-  /* Interactives */
-  --interactive-active: #878787 !important;
-
+  --interactive-active: grey !important;
 }
 
 /* Video and Screen Background */ 
@@ -33,4 +30,9 @@
 /* Name */ 
 .title-eS5yk3 {
     color: #878787;
+}
+
+ /* ChatNames */
+.username-1A8OIy {
+    color: grey !important;
 }
