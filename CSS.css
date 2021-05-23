@@ -17,11 +17,6 @@
   color: var(--text-normal);
 }
 
-:root {
-  --text-normal: rgb(50, 50, 50);
-  --interactive-active: grey !important;
-}
-
 /* Video and Screen Background */ 
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
     background: rgba(8, 7, 7, 0.14);
