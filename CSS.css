@@ -19,6 +19,10 @@
 
 :root {
   --text-normal: rgb(50, 50, 50);
+  
+  /* Interactives */
+  --interactive-active: #878787 !important;
+
 }
 
 /* Video and Screen Background */ 
@@ -30,6 +34,3 @@
 .title-eS5yk3 {
     color: #878787;
 }
-
-/* Interactives */
---interactive-active: #878787 !important;
