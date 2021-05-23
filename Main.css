@@ -12,7 +12,9 @@
 	--load1: url('https://github.com/snake587587/Theme/raw/main/Text1.png');
 	--load2: url('https://github.com/snake587587/Theme/raw/main/Text2.png');
 	--load3: url('https://github.com/snake587587/Theme/raw/main/Text3.png');
-  --interactive-active: grey !important;
+	
+
+--interactive-active: grey !important;
 --background-image: url('https://github.com/snake587587/Theme/raw/main/Background.png');
 --friends-icon: url('https://github.com/snake587587/Theme/raw/main/Home.png');
 --friends-icon-position: center center;
