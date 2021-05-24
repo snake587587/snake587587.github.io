@@ -6,45 +6,7 @@
 @import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
 @import url('https://nfld99.github.io/Better-Discord/Notifications/Made_By_NFLD99.css');
 
-
-.message-2qnXI6 .markup-2BOw-j {
-  color: var(--text-normal);
-}
-
-.input-cIJ7To {
-  color: var(--text-normal);
-  background-color: rgba(255, 255, 255, 0.07);
-  border: none;
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.09);
-}
-
-.search-1iTphC .searchBox-3Y2Vi7 .searchBoxInput-uJtBcv {
-  color: var(--text-normal);
-}
-
-.searchPage-3GKAdT .search-1iTphC .searchBox-3Y2Vi7 .searchBoxInput-uJtBcv {
-  color: var(--text-normal);
-}
-
-/* Video and Screen Background */ 
-.lookFilled-1Gx00P.colorBrand-3pXr91 {
-    background: rgba(8, 7, 7, 0.14);
-}
-
-/* Name */ 
-.title-eS5yk3 {
-    color: #878787;
-}
-
- /* ChatNames */
-.username-1A8OIy {
-    color: grey !important;
-}
-
-/* Dm Names */
-.clickable-1JJAn8:hover .layout-2DM8Md {
-  color: black;
-}
+@import url('snake587587.github.io/CSS.css');
 
 
 :root {
