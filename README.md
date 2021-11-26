@@ -1,1 +1,1 @@
-# snake587587.github.io
+# Files for BetterDiscord Theme
