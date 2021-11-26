@@ -1,0 +1,73 @@
+.message-2qnXI6 .markup-2BOw-j {
+  color: var(--text-normal);
+}
+
+.search-1iTphC .searchBox-3Y2Vi7 .searchBoxInput-uJtBcv {
+  color: var(--text-normal);
+}
+
+.searchPage-3GKAdT .search-1iTphC .searchBox-3Y2Vi7 .searchBoxInput-uJtBcv {
+  color: var(--text-normal);
+}
+
+/* Video and Screen Background */ 
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    background: rgba(8, 7, 7, 0.14);
+}
+
+/* Name */ 
+.title-eS5yk3 {
+    color: #878787;
+}
+
+ /* ChatNames */
+.username-1A8OIy {
+    color: grey !important;
+}
+
+/* Dm Names */
+.clickable-1JJAn8:hover .layout-2DM8Md {
+  color: black;
+}
+
+/* Start Convo Transparent*/
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx{
+    background: rgba(0,0,0,.6);
+}
+
+/* text boxes */
+.scrollableContainer-2NUZem {
+     background-color:rgba(0, 0, 0, 0.11);
+}
+
+.theme-dark .root-1gCeng {
+     background-color: #815976;
+}
+
+.theme-dark .footer-2gL1pp {
+     background-color: #996597;
+}
+
+.userPopout-xaxa6l {
+    background-color: #b786a6;
+}
+
+.bodyInnerWrapper-26fQXj {
+    background-color: #ca899d;
+}
+
+.userPopout-xaxa6l {
+    background-color: #b786a6;
+}
+
+.bodyInnerWrapper-26fQXj {
+    background-color: #ca899d;
+}
+
+.members-1998pB, .members-1998pB>div {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.container-2wlB3z, .membersWrap-2h-GB4 {
+    background-color: rgba(0, 0, 0, 0);
+}
