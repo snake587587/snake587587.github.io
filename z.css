@@ -1,0 +1,40 @@
+
+
+@import url('https://cdn.discordthemes.net/file/notanotheranimetheme/scsl.css');
+
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+
+--background-image: url('');
+--friends-icon: url('https://cdn.discordapp.com/attachments/619005573077401612/873091588606263336/Home.png');
+--friends-icon-position: center center;
+--friends-icon-zoom: 128%;
+--main-color: rgb(221,79,79);
+--main-transparency: rgba(0, 0, 0, 0.8);
+--unread-server-animation: rainbow;
+--hover-list-bg-color: rgba(255,255,255, .15);
+--border-lines-color: hsla(0,0%,100%,.1);
+--scroll-bar-color: rgba(255,255,255, .15);
+--font-size: 16px;
+--selected-text-voice-color: #f6f6f7;
+--channel-hover-text-color: rgba(255, 255, 255, 0.75);
+--unread-text-color: #dcddde;
+--user-popup-background: rgba(0, 0, 0, 0.8);
+
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+--rs-small-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+}
